@@ -1,0 +1,1 @@
+alert("Hello, World!"); // Função de biblioteca (abre pop-up no navegador)
